@@ -13,7 +13,7 @@ I created Bookie Jar in order to give book recommendations from the above curate
 
 ### Download links
 
-Download Bookie Jar from the Apple Store using this link. 
+Download Bookie Jar from the Apple Store using this link (https://apps.apple.com/gb/app/bookie-jar/id1516379476). 
 
 ### Data privacy
 
